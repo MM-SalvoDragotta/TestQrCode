@@ -1,2 +1,2 @@
-# front-end-template
-front-end-template
+# QR Code Link
+Qr Code Link
